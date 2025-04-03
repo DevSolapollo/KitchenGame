@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 22bc50a4d41e865468aff5a425cd8fd0, type: 3}
-  m_Name: MeatPattyUncooked
+  m_Name: MeatPattyCooked
   m_EditorClassIdentifier: 
-  prefab: {fileID: 4811278163924321144, guid: f5c88cdd30e3776419d00bdc8c2ca01e, type: 3}
-  sprite: {fileID: 21300000, guid: aa1bacc24dde76e47b2ec0dd4e82385b, type: 3}
-  objectName: Meat Patty Uncooked
+  prefab: {fileID: 4811278163924321144, guid: b9cf987b476b09a43a011da0dfaeefa2, type: 3}
+  sprite: {fileID: 21300000, guid: f1f50c7ef90b19741b26f2040806cf56, type: 3}
+  objectName: Meat Patty Cooked
